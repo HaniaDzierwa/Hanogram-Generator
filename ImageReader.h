@@ -13,6 +13,9 @@
 #define MAX_NUMBER_OF_COLORS 0
 #define ALL_COLORS_REQUIRED 0
 
+
+//https://elcharolin.wordpress.com/2018/11/28/read-and-write-bmp-files-in-c-c/?fbclid=IwAR2jLtREDtESJotWfVgARETTMvc0gU7PEcfbutwGNr4OsYgrFfMUjW1JKFo
+
 class ImageReader
 {
 public:  
